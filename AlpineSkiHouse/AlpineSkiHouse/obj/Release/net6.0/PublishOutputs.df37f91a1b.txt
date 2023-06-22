@@ -1,0 +1,7 @@
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Cursos\Challenge-Net\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb

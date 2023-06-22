@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "48v4ti7FHLoJQEoLhlLMDTBUgwgEX5Ma2G2hN/x29wT32SZM6mJv6m5lo0BR4hqpTA5CAfWMaJ9HHH2ZkaIZ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan.acevedo\\Desktop\\Cursos\\Challenge-Net\\costosoPizza-Api\\costosoPizza-Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Juan.acevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

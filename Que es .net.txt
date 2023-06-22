@@ -1,0 +1,44 @@
+Lenguaje C# - Framework .Net   Ecosistema de microsoft
+-Se puede desarrollar cualquier tipo de proyecto (web, mobile, escritorio, cloud computing, video juegos, inteligencia artificial, etc)
+
+CÓDIGO FUENTE                            BYTECODE                             CÓDIGO NATIVO
+Compilador C#                           Código MSIL           CLR
+Compilador de VB .Net                   Código MSIL           CLR
+Otro Compilador(otro lenguaje .Net)     Código MSIL           CLR
+
+                  Tiempo de compilacion               Tiempo de ejecucion   
+
+
+.Net framework = Aplicaciones de escritorio y web solo para windows
+Xamarin = Aplicaciones moviles (android - ios) utilizando c#
+.net core      = Apis, aplicaciones web
+ASP.NET        = Framework para escritorio, desarrollo web (windows)
+ASP.NET CORE   = Apis (Multiplataforma)
+.net standar   = Requerimientos para que tu aplicacion funcione tanto en .net framework como en .net core
+
+.Net (unificacion)   = Plataforma, conjunto de tecnologias base para trabajar con .net
+
+
+.Net 6: Common base libraries/APIs
+	Cloud Computing:              Azure
+	Desarrollo web:               ASP.Net, Blazor
+	Desarrollo escritorio:        .Net MAUI, WPF, WinForms    (MAUI: Multiplatform app ui)
+	Desarrollo movil:             .Net MAUI, Xamarin
+	Desarroollo videojuegos:      Unity
+	Machine learning:             ARM32, ARM64
+	Inteligencia artificial:      ML.Net, .Net for, Apache spark
+
+
+What is .NET?
+.NET is a complete ecosystem for developing and deploying applications for desktops, mobile devices, the cloud, 
+and IoT devices. Developers use programming languages likes Visual Basic, C#, and F# to build with .NET.
+You can use .NET tools on the command line, or embedded in applications like Visual Studio or Visual Studio Code,
+to compile your code into a running application.
+
+What is Razor?
+Razor is a format for generating text-based content, like HTML. Razor files have a cshtml or a razor file extension, 
+and contain a mix of C# code along with HTML.
+
+What is Blazor?
+Blazor is a user-interface framework built on .NET and Razor. Blazor applications can run on a server as part of an 
+ASP.NET application, or can be deployed to run in the browser on a user's machine similar to a single-page-application.
